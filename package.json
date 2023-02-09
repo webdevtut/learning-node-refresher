@@ -1,0 +1,23 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevtut/learning-node-refresher.git"
+  },
+  "keywords": [
+    "Farm",
+    "Node"
+  ],
+  "author": "Tushar G Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevtut/learning-node-refresher/issues"
+  },
+  "homepage": "https://github.com/webdevtut/learning-node-refresher#readme"
+}
